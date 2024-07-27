@@ -1,0 +1,6 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(#6bb3b0 ,#e6f5f4);
+    font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
